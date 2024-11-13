@@ -13,9 +13,10 @@ The `Churn_Modelling.csv` dataset includes customer attributes such as credit sc
 - Matplotlib (for visualization)
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/username/ann.git`
+1. Clone the repository: `git clone https://github.com/shrimali-1/artificial_neural_network.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the model: `python churn_model.py`
+3. Run the model: `jupyter notebook artificial_neural_network.ipynb
+`
 
 ## License
 This project is licensed under the MIT License.
