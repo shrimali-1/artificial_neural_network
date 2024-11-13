@@ -1,4 +1,4 @@
-# artificial_neural_network
+# ARTIFICIAL NEURAL NETWORK
 # Customer Churn Prediction
 
 This repository contains a machine learning model designed to predict customer churn based on demographic and account information. The model can be used by businesses to identify customers at risk of leaving and take proactive measures to retain them.
