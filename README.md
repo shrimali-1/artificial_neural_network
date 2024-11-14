@@ -18,5 +18,3 @@ The `Churn_Modelling.csv` dataset includes customer attributes such as credit sc
 3. Run the model: `jupyter notebook artificial_neural_network.ipynb
 `
 
-## License
-This project is licensed under the MIT License.
